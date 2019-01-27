@@ -10,7 +10,7 @@ This repo contains the designs and source files of a **DIY Sterilehood**. This d
  	SterileHood-Assembly.pdf				Assembly guide
  	SterileHood-Cut-Sheet.svg				Laser cut vector file
  	SterileHood-Sketchup.skp				Sketchup 3D design
- 	
+
 ##Releases
 
 The BioHack Academy 3 release contains the following:
@@ -23,7 +23,7 @@ The BioHack Academy 3 release contains the following:
 
 * Make the whole thing a lot sturdier
 
-Please maket more suggestions by posting in the Issues section of this GitHub Repo.
+Please make more suggestions by posting in the Issues section of this GitHub Repo.
 
 ## License
 
